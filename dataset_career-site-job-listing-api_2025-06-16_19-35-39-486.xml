@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<item>
+    <id>1743140079</id>
+    <date_posted>2025-06-16T16:04:06.821</date_posted>
+    <date_created>2025-06-16T16:05:04.494127</date_created>
+    <title>Staff Software Engineer in Test (Strata Cloud Manager)</title>
+    <organization>Palo Alto Networks</organization>
+    <organization_url/>
+    <date_validthrough/>
+    <locations_raw>
+        <address>
+            <addressLocality>Santa Clara</addressLocality>
+            <addressRegion>California</addressRegion>
+            <addressCountry>United States</addressCountry>
+        </address>
+    </locations_raw>
+    <locations_alt_raw>Santa Clara, CA</locations_alt_raw>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw/>
+    <employment_type>Full-time</employment_type>
+    <url>https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000065539737-staff-software-engineer-in-test-strata-cloud-manager-</url>
+    <source_type>ats</source_type>
+    <source>smartrecruiters</source>
+    <source_domain>jobs.smartrecruiters.com</source_domain>
+    <organization_logo/>
+    <cities_derived>Santa Clara</cities_derived>
+    <regions_derived>California</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>Santa Clara, California, United States</locations_derived>
+    <timezones_derived>America/Los_Angeles</timezones_derived>
+    <lats_derived>37.3646</lats_derived>
+    <lngs_derived>-121.968</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>paloaltonetworks.com</domain_derived>
+    <description_text>Company DescriptionOur MissionAt Palo Alto Networks® everything starts and ends with our mission:Being the cybersecurity partner of choice, protecting our digital way of life.
+Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.Who We AreWe take our mission of protecting the digital way of life seriously. We are relentless in protecting our customers and we believe that the unique ideas of every member of our team contributes to our collective success. Our values were crowdsourced by employees and are brought to life through each of us everyday - from disruptive innovation and collaboration, to execution. From showing up for each other with integrity to creating an environment where we all feel included.As a member of our team, you will be shaping the future of cybersecurity. We work fast, value ongoing learning, and we respect each employee as a unique individual. Knowing we all have different needs, our development and personal wellbeing programs are designed to give you choice in how you are supported. This includes our FLEXBenefits wellbeing spending account with over 1,000 eligible items selected by employees, our mental and financial health resources, and our personalized learning opportunities - just to name a few!At Palo Alto Networks, we believe in the power of collaboration and value in-person interactions. This is why our employees generally work full time from our office with flexibility offered where needed. This setup fosters casual conversations, problem-solving, and trusted relationships. Our goal is to create an environment where we all win with precision.Job DescriptionYour CareerThe Cloud Management Platform is a public cloud delivered management platform to manage all Palo Alto Networks Next generation network security solutions. It’s an easy-to-use, scalable and secure platform to operationalize complex deployments using the Palo Alto Networks network security portfolio.You will work in a team of highly motivated engineers building a highly scalable and secure multi-tenant public cloud solution to manage devices in physical, virtual or container form factors. We are looking for passionate engineers that can code and build great products as well as leaders that can own and deliver. Collaboration and teamwork are at the foundation of our culture and we need engineers who can communicate at a high level and work well with others towards achieving a common goal. Your Impact​​As a Software Development Engineer in Test (SDET), you will play a key role in ensuring the quality and reliability of our software products. Your responsibilities will include: Design, develop and execute test automation to test software features on our next-generation security platform as part of our Cloud Management Platform.Create detailed, comprehensive, and well-structured test plans that cover all possible test cases to verify feature functionality for customer use cases.Develop and maintain test automation and framework.Develop tools and infrastructure that enable engineers to build, test and release features confidently and continuously.Work closely with the Software Engineering, Product Management teams during product development from design to release.Understand customer configurations. debug, reproduce, verify fixes and add new test cases for issues uncovered in customer deployments.Verify endurance and scale testing to validate robust feature functionality under stress.Mix in your creative skills with a focused testing approach to produce the best quality products in cybersecurity  You will also have the chance to work on different public cloud platforms (AWS, GCP, Azure) to automate cloud management platformConfigure, build and expand both Functional and System Testbeds Be involved in a rigorous approach to testing for specifications, assist the team with testing methods or tools for new testingExcellent troubleshooting abilities. Debug issues found during testing and verify bug fixes once they are resolved.Qualifications QualificationsProven experience in writing test plans and test cases with a strong understanding of SDET methodologies, tools, and procedures.Strong knowledge of test automation methodologies, tools, and frameworksExperience developing test automation for REST APIs using Python/PytestUI automation/testing experience using Selenium/JavaScript/Playwright.Proficiency in at least one programming language (e.g., Python, Java, JavaScript) Experience in building and maintaining GitLab CI/CD pipelines.Experience with TCP/IP Networking and Network/Cloud Security required.Good understanding of networking concepts, L2-L7 protocolsTesting network security products, preferably with firewalls is a plus.Experience with Cloud Technologies such AWS/Azure/GCP Experience with Linux or Esxi Virtualization or Docker/Kubernetes is a plusExcellent communication and collaborative skills.BS or MS in Computer Engineering or a related technical field.3 - 7 years' experience as a Software Developer/SDET/Software Test Engineer.Additional InformationThe Team[Input by recruiter and audited by recruiting specialist]Compensation DisclosureThe compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/commissioned roles) is expected to be between $ $104000 - $169500 The offered compensation may also include restricted stock units and a bonus. A description of our employee benefits may be found here.Our Commitment
+
+We’re problem solvers that take risks and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at  [email protected].Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.All your information will be kept confidential according to EEO guidelines.
+Is role eligible for Immigration Sponsorship?: Yes</description_text>
+</item>
+<item>
+    <id>1742918644</id>
+    <date_posted>2025-06-16T14:30:37.669</date_posted>
+    <date_created>2025-06-16T14:38:13.307597</date_created>
+    <title>Sr Staff Engineer Software (Cloud Native NMS)</title>
+    <organization>Palo Alto Networks</organization>
+    <organization_url/>
+    <date_validthrough/>
+    <locations_raw>
+        <address>
+            <addressLocality>Santa Clara</addressLocality>
+            <addressRegion>California</addressRegion>
+            <addressCountry>United States</addressCountry>
+        </address>
+    </locations_raw>
+    <locations_alt_raw>Santa Clara, CA</locations_alt_raw>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw/>
+    <employment_type>Full-time</employment_type>
+    <url>https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000065517226-sr-staff-engineer-software-cloud-native-nms-</url>
+    <source_type>ats</source_type>
+    <source>smartrecruiters</source>
+    <source_domain>jobs.smartrecruiters.com</source_domain>
+    <organization_logo/>
+    <cities_derived>Santa Clara</cities_derived>
+    <regions_derived>California</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>Santa Clara, California, United States</locations_derived>
+    <timezones_derived>America/Los_Angeles</timezones_derived>
+    <lats_derived>37.3646</lats_derived>
+    <lngs_derived>-121.968</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>paloaltonetworks.com</domain_derived>
+    <description_text>Company DescriptionOur MissionAt Palo Alto Networks® everything starts and ends with our mission:Being the cybersecurity partner of choice, protecting our digital way of life.
+Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.Who We AreWe take our mission of protecting the digital way of life seriously. We are relentless in protecting our customers and we believe that the unique ideas of every member of our team contributes to our collective success. Our values were crowdsourced by employees and are brought to life through each of us everyday - from disruptive innovation and collaboration, to execution. From showing up for each other with integrity to creating an environment where we all feel included.As a member of our team, you will be shaping the future of cybersecurity. We work fast, value ongoing learning, and we respect each employee as a unique individual. Knowing we all have different needs, our development and personal wellbeing programs are designed to give you choice in how you are supported. This includes our FLEXBenefits wellbeing spending account with over 1,000 eligible items selected by employees, our mental and financial health resources, and our personalized learning opportunities - just to name a few!At Palo Alto Networks, we believe in the power of collaboration and value in-person interactions. This is why our employees generally work full time from our office with flexibility offered where needed. This setup fosters casual conversations, problem-solving, and trusted relationships. Our goal is to create an environment where we all win with precision.Job DescriptionYour CareerHelp build what is next. Our Cloud Management Platform is a public cloud delivered management platform to manage all Palo Alto Networks Next generation network security solutions. It’s an easy-to-use, scalable and secure platform to operationalize complex deployments using the Palo Alto Networks network security portfolio.This role is located at our dynamic Santa Clara California headquarters campus.Your ImpactConceptualize, Collaborate and Develop highly scalable cloud native Network Management System for managing devices and services at scale in hybrid deploymentsLead and Design next-generation centralized device asset management architectureBuild workflows to allow for easier onboarding of network devices and third party integrationsDevelop workflows that simplify the integration of network devices and third-party systems, as well as streamline the onboarding process for these components.Technical leadership and end-to-end delivery of solutions in collaboration with cross-functional product management, development and quality assurance teams in a fast paced environmentDeliberate and build frameworks to improve quality of micro servicesWork with Devops and Technical Support teams to investigate and resolve critical customer defectsRecruit and Mentor new team membersQualifications Your ExperienceMS/BS in Computer Science or equivalent or equivalent military experience 4+ years of experience in building large enterprise applications requiredExperience in technical leadership roles in building major cloud native apps or subsystems is a plusProven ability to lead and collaborate with many cross-functional teams with an emphasis on end-to-end deliveryExperience in the full software development life cycle, including coding - standards, code reviews, source control management, build processes, testing, peer review, and operationsExcellent programming skills in Golang is a mustExperience building data management solutions using transactional data stores or GraphDB with GraphQL API is preferredStrong fundamentals in object oriented design and development is a must - Experience with or familiarity of Test Driven Development and Continuous Integration is requiredExperience developing microservices based solutions on public cloud infrastructure is highly desirable
+Experience developing in Kubernetes based environments is a plusKnowledge of and experience building enterprise software with graph databases is highly desirableExperience building network and security configuration management systems is highly desirable
+Experience building appliance based network management solutions is highly desirableAdditional InformationThe TeamTo stay ahead of the curve, it’s critical to know where the curve is, and how to anticipate the changes we’re facing. For the fastest growing cybersecurity company, the curve is the evolution of cyberattacks, and the products and services that proactively address them. Our engineering team is at the core of our products – connected directly to the mission of preventing cyberattacks. They are constantly innovating – challenging the way we, and the industry, think about cybersecurity. These engineers aren’t shy about creating products to solve problems no one has tackled before. They define the industry, instead of waiting for directions. We need individuals who feel comfortable in ambiguity, excited by the prospect of challenge, and empowered by the unknown risks facing our everyday lives that are only enabled by a secure digital environment.Our engineering team is provided with an unrivaled opportunity to build the products and practices that will support our company growth over the next decade, defining the cybersecurity industry as we know it. If you see the potential of how incredible people products can transform a business, this is the team for you. If you don’t wait for directions, instead, identifying new features and opportunities we have to just get better, this is your new career.Compensation DisclosureThe compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/commissioned roles) is expected to be between $150,000 - $184,000/YR. The offered compensation may also include restricted stock units and a bonus. A description of our employee benefits may be found here.Our Commitment
+
+We’re problem solvers that take risks and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at  [email protected].Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.All your information will be kept confidential according to EEO guidelines.
+Is role eligible for Immigration Sponsorship?: Yes</description_text>
+</item>
+<item>
+    <id>1742776438</id>
+    <date_posted>2025-06-16T13:16:42.345</date_posted>
+    <date_created>2025-06-16T13:37:58.858989</date_created>
+    <title>1481 - Information System Security Officer (ISSO)</title>
+    <organization>Sigma Defense</organization>
+    <organization_url>https://jobs.workable.com/company/63e93191319c852ea8b1a4a3/jobs-at-sigma-defense</organization_url>
+    <date_validthrough/>
+    <locations_raw>
+        <__type>Place</__type>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressLocality>San Antonio</addressLocality>
+            <addressRegion>Texas</addressRegion>
+            <addressCountry>United States</addressCountry>
+        </address>
+    </locations_raw>
+    <locations_alt_raw>San Antonio, Texas, United States</locations_alt_raw>
+    <location_type>TELECOMMUTE</location_type>
+    <location_requirements_raw>
+        <__type>Country</__type>
+        <name>United States</name>
+    </location_requirements_raw>
+    <salary_raw/>
+    <employment_type>FULL_TIME</employment_type>
+    <url>https://jobs.workable.com/view/3ry9vskcKXND2zXMSAstC4/hybrid-1481---information-system-security-officer-(isso)-in-san-antonio-at-sigma-defense</url>
+    <source_type>ats</source_type>
+    <source>workable</source>
+    <source_domain>jobs.workable.com</source_domain>
+    <organization_logo>https://workablehr.s3.amazonaws.com/uploads/account/logo/31138/logo</organization_logo>
+    <cities_derived>San Antonio</cities_derived>
+    <regions_derived>Texas</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>San Antonio, Texas, United States</locations_derived>
+    <timezones_derived>America/Chicago</timezones_derived>
+    <lats_derived>29.4632</lats_derived>
+    <lngs_derived>-98.5238</lngs_derived>
+    <remote_derived>true</remote_derived>
+    <domain_derived>sigmadefense.com</domain_derived>
+    <description_text>Sigma Defense is seeking a dynamic and skilled Information System Security Officer (ISSO) to join our team in San Antonio, TX. This critical role ensures the security and compliance of information systems, driving the adoption of advanced technologies to support government clients. As an ISSO, you will safeguard mission-critical systems, implement secure cloud solutions, and optimize processes to meet stringent regulatory standards. The ideal candidate is flexible, hardworking, and ready to learn new things. The candidate should have strong verbal and written communication skills with exceptional interpersonal, problem-solving, organizational, and multitasking abilities.
+Equal Opportunity Employer/Veterans/Disabled: Sigma Defense Systems is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+3-5 years of relevant experience. 
+Experience supporting Linux-based infrastructure.
+Experience with Microsoft Azure or other cloud platforms.
+Background supporting DoD or Intelligence Community System Program Offices.
+In-depth knowledge of cloud engineering principles, methodologies, and best practices.
+Understanding of operational excellence, configuration management, and security controls.
+One or more certifications in cloud technologies.
+Familiarity with cloud paradigms, including IaaS, PaaS, and SaaS.
+Knowledge of project management tools such as Jira and Confluence.
+Personnel Clearance Level:
+Candidate must possess or have the ability to obtain an active TS/SCI security clearance. 
+Clearance will be sponsored for the right candidate.
+Education Requirement:
+Bachelor's degree from an accredited college or university in Cybersecurity, or equivalent experience.
+Mandatory Certifications:
+DoD IAT Level II certification (e.g., Security+ CE).
+Essential Job Duties (not all-inclusive):
+Customer Support and Enablement:
+Onboard government customers, providing comprehensive support to meet their security needs.
+Guide customers through security certification and deployment processes, ensuring compliance and efficiency.
+Monitor and maintain the security and performance of mission-critical applications.
+Security and Compliance Management:
+Implement log aggregation and analysis to detect and respond to security events.
+Conduct regular vulnerability assessments and risk management to enhance system resilience.
+Ensure compliance with regulatory standards, such as NIST SP 800-53 and DoD requirements.
+Cloud Technology Implementation:
+Research and implement secure cloud technologies, including hybrid-cloud and government-specific solutions (e.g., AWS GovCloud, Azure Government).
+Design and manage migrations to secure cloud environments, ensuring operational effectiveness.
+Collaborate with engineering teams to support and troubleshoot cloud-based systems.
+Process Optimization:
+Develop and optimize processes to evaluate and improve system security and performance.
+Assess proposed changes for security implications and conduct post-implementation reviews.
+Maintain compliance and security across cloud environments, aligning with federal mandates.
+Salary Range: $120,000- $140,00 annually.
+Dental and Vision Insurance
+Medical Insurance to Include HSA, FSA, and DFSA Plans
+Life and AD&amp;D coverage
+Employee Assistance Program (EAP)
+401(k) Plan with Company Matching Contributions
+160 Hours of Paid Time Off (PTO) 
+12 (Floating) Holidays
+Educational Assistance
+Highly Competitive Salary</description_text>
+</item>
+<item>
+    <id>1742942779</id>
+    <date_posted>2025-06-16T00:00:00</date_posted>
+    <date_created>2025-06-16T14:49:40.591074</date_created>
+    <title>Faculty Physician –Fellowship-Trained Pediatric Hand Surgeon (Assistant Professor)</title>
+    <organization>University of Minnesota Physicians</organization>
+    <organization_url/>
+    <date_validthrough/>
+    <locations_raw>
+        <__type>Place</__type>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressCountry>United States of America</addressCountry>
+            <addressLocality>Minneapolis, MN (UMMC - Childrens)</addressLocality>
+        </address>
+    </locations_raw>
+    <locations_alt_raw>Minneapolis, MN (UMMC - Childrens)</locations_alt_raw>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw/>
+    <employment_type>FULL_TIME</employment_type>
+    <url>https://umphysicians.wd1.myworkdayjobs.com/umpcareers/job/Minneapolis-MN-UMMC---Childrens/Faculty-Physician--Fellowship-Trained-Pediatric-Hand-Surgeon--Assistant-Professor-_R0026024-1</url>
+    <source_type>ats</source_type>
+    <source>workday</source>
+    <source_domain>umphysicians.wd1.myworkdayjobs.com</source_domain>
+    <organization_logo/>
+    <cities_derived/>
+    <regions_derived/>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>United States</locations_derived>
+    <timezones_derived>America/New_York</timezones_derived>
+    <lats_derived>38.9047</lats_derived>
+    <lngs_derived>-77.0163</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>mphysicians.org</domain_derived>
+    <description_text>Qualifications: Graduate of an accredited ACGME Orthopedic Surgery residency and hand fellowship-training program with demonstrated interest in pediatric hand and upper extremity sub specialization. Reliable clinician with sound judgement and technical expertise Understands and places importance on patient care/service Detail oriented and self-motivated with excellent written and verbal communication skills Education-focused and a creative problem-solver Exceptional collaboration abilities with partners and staff Board certified eligible. Licensed or ability to obtain Minnesota Board of Medical Practice Licensure Ability to obtain/maintain DEA certification in the State of Minnesota Meet threshold criteria/qualifications for Credentialing and Privileges Ability to receive work authorization in the United States from the U.S. Citizenship and Immigration Services and maintain legal status according to the requirements of VISA category while in the United States. Leadership experience and interest About the Job: Practice Details: The Department of Orthopedic Surgery at the University of Minnesota is seeking a full-time (1.0 FTE with 0.8 clinical time), board-eligible orthopedic surgeon with fellowship training in Hand Surgery and sub-specialization interest in pediatric hand surgery to be hired at the rank of Assistant Professor or higher on the clinician track. This surgeon will work at 0.6 FTE at Gillette Children’s Hospital with a 0.1 FTE at Shriner’s Children’s and 0.15 FTE at MHealth. These health systems bring multiple specialists together to blend the best in conservative and surgical treatment for complex pediatric hand. These include: General and Subspecialty Orthopedic Surgeons, Podiatrists, Pain Management Providers, Neurosurgeons, Medical Spine (PM&amp;R), Athletic Trainers, and Physical, Occupational and Hand Therapists. This position is part of a team of 87 physicians within the University of Minnesota Department of Orthopedic Surgery. Opportunity may exist to work with hand fellows, plastics or orthopedic residents and/or medical students. Responsibilities: Patient care at Gillett Children’s Hospital, Shriner’s Children’s and MHealth Employed by M Physicians, and participation in service, research, and educational activities on behalf of the department, the medical school, and the profession. Pursuit of educational and outcome-driven goals fostered by the service line goals, system goals, and the individuals' own areas of interest Call responsibilities at MHealth general orthopedics About the Department To learn more about the Department of Orthopedic Surgery, please visit https://med.umn.edu/ortho. About the Medical School: Committed to innovation and diversity, the Medical School educates physicians, scientists, and health professionals; generates knowledge and treatments; and cares for patients and communities with compassion and respect. We value excellence, inclusiveness, collaboration, and discovery. The mission of the regional campus located in Duluth is to be a national leader in improving healthcare access and outcomes in rural Minnesota and American Indian/Alaska Native (AI/AN) communities. In partnership with CentraCare, the regional campus in St. Cloud offers a wide range of patient experiences throughout students’ education in Greater Minnesota and prepares them to become exceptional clinicians and leaders for rural and immigrant populations Founded in 1888, the University of Minnesota Medical School has three campuses. A four-year MD program and the MD/PhD program are located on the Twin Cities campus in addition to MD programs at regional campuses in Duluth and St. Cloud. Pay and Benefits: This role is dually employed by University of Minnesota Physicians and the University of Minnesota. Total salary is market competitive and based on AAMC salary benchmarks. Clinical salary, aligned with clinical effort, is provided through M Physicians. The base salary range for this position is $436,000 – $546,000 commensurate with experience, qualifications, and cFTE. The salary from the University is dependent upon the academic effort of the person hired. M Physicians provides the following benefits: Substantial 401K employer contribution. Well-being program including an annual spending allotment, peer coaching, counseling, and concierge services. Allowance for CME, license, board certification, and DEA fees. Malpractice insurance coverage. As a 501(c)(3) non-profit, we are a qualified employer for the Public Service Loan Forgiveness Program. In addition, the University provides a comprehensive benefits package that includes low-cost medical, dental, pharmacy plans, and much more. Additional information can be found here: M Physicians Benefits and University Benefits. Additional Requirements: An application for the corresponding academic component of this position should be submitted through the University’s employment site: https://hr.myu.umn.edu/jobs/ext/368768. Our Partnerships We are proud to have partnerships with health systems across the region. Through these partnerships, we carry out our mission to provide access to outstanding patient care to communities across the state. In addition to our collaboration with Fairview Health Services, M Physicians also has partnerships with Park Nicollet, Regions Hospital, North Memorial Hospital, Children’s Minnesota, Gillette Children’s Specialty Healthcare, TRIA Orthopaedic Center and CentraCare Health. University of Minnesota The University of Minnesota is among the largest and most prestigious public research universities in the nation. The University Medical School is a world-class institution with a long history of leadership and discoveries that have changed the practice of medicine. The nearly 3,000 outstanding faculty members are committed to achieving excellence in research, clinical care, and developing the next generation of health professionals. Community Information We are based in Minneapolis and consistently ranked as one of the best places to live in America by U.S. News &amp; World Report. The Minneapolis-St. Paul area offers a high quality of life and a low cost of living. You'll find excellent school systems, a robust economy, an award-winning culinary scene, museums of all types, outstanding theaters, and a reliable international airport. If you love the outdoors, you can enjoy all four seasons with the plethora of lakes, parks, and some of the country's best bike trails! Explore Minnesota Greater Minneapolis – St. Paul Metropolitan Area #UMP University of Minnesota Physicians (M Physicians), a non-profit organization headquartered in Minneapolis, seeks motivated individuals for both clinical and non-clinical roles to drive innovation in health and medicine. Our inclusive culture offers competitive salaries, excellent benefits, and the opportunity for career development in the exciting field of health care to over 1,200 physicians, 300 advanced practice providers, and 2,200 health professionals and staff across Minnesota and beyond. Join us on a mission to advance medicine. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Company Overview: At University of Minnesota Physicians (M Physicians), we are on a mission to deliver exceptional patient care, advance medicine through research, and train the next generation of health professionals. M Physicians is the multi-specialty group practice for the University of Minnesota Medical School faculty clinicians, community-practice clinicians, advanced practice providers, and healthcare professionals. We serve the land grant mission of the University by providing high quality specialty and primary care, innovative and leading-edge cures and treatments, and access to the latest evidence-based care to patients across the state of Minnesota and beyond. Employment Update: As an organization deeply rooted in our community, it’s our responsibility to protect the wellbeing of our teams, provide a safe and healthy environment for those we serve, and to set an example for our neighbors. We take our obligation to care for our patients seriously. That is why M Physicians is requiring all employees, providers, learners and volunteers to receive an annual Flu vaccination unless a reasonable accommodation or exemption is granted. Application Instructions: External Candidates: Click “Apply” and sign in with your account. If you are a new applicant, select “Create Account”. Employees: If you are a current University of Minnesota Physicians employee, please log into Workday to access our Internal Careers Site. Contingent Workers: If you are not an employee but have an active Workday account with the University of Minnesota Physicians, please log into Workday and apply using the Find UMP Jobs Worklet.</description_text>
+</item>
+<item>
+    <id>1741542010</id>
+    <date_posted>2025-06-15T00:00:00</date_posted>
+    <date_created>2025-06-15T23:53:29.782215</date_created>
+    <title>Marketing Intern - Mandarin Speaking</title>
+    <organization>HungryPanda</organization>
+    <organization_url>https://www.hungrypanda.co/</organization_url>
+    <date_validthrough>2025-09-13T00:00:00</date_validthrough>
+    <locations_raw>
+        <__type>Place</__type>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressLocality>San Jose</addressLocality>
+            <addressRegion>CA</addressRegion>
+            <postalCode/>
+        </address>
+    </locations_raw>
+    <locations_alt_raw/>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw/>
+    <employment_type>INTERN</employment_type>
+    <url>https://hungrypanda.applytojob.com/apply/cxbglRHRSM/Marketing-Intern-Mandarin-Speaking</url>
+    <source_type>ats</source_type>
+    <source>jazzhr</source>
+    <source_domain>hungrypanda.applytojob.com</source_domain>
+    <organization_logo/>
+    <cities_derived>San Jose</cities_derived>
+    <regions_derived>California</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>San Jose, California, United States</locations_derived>
+    <timezones_derived>America/Los_Angeles</timezones_derived>
+    <lats_derived>37.3012</lats_derived>
+    <lngs_derived>-121.848</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>hungrypanda.co</domain_derived>
+    <description_text>About HungryPanda
+Headquartered in London, the UK, HungryPanda is a specialist food delivery platform to providing authentic Chinese food and groceries to Chinese compatriots and students abroad since its establishment in 2017.
+关于熊猫外卖
+熊猫外卖是海外领先的本地生活平台总部位于伦敦业务涵盖在线外卖、新零售、即时配送和餐饮供应链等服务目前业务服务已经覆盖英国、法国、意大利、新西兰、澳大利亚及美国等国家横跨四大洲遍及60多个主要城市
+Our Value
+HungryPanda’s vision is to become the global market leading platform that enables overseas Chinese business in the food industry and connects Chinese food to all consumers who enjoy it.
+我们的价值观
+成为全球市场领先的在线餐饮生活平台赋能海外中餐产业搭建中餐爱好者与中华美食的桥梁。
+Our Mission
+Connecting merchants to consumers via our state-of-the-art online platform and industry leading delivery service. Consolidating the end-to-end value chain of the overseas Chinese food industry to leverage efficiency and scale. Creating business opportunities via our far reaching business network and digital solution
+我们的目标
+通过不断优化的线上平台和行业领先的配送服务将餐厅和每一位顾客连接不断巩固海外中餐行业的端对端价值链不断努力提高效率和扩大规模将中华美食传递到世界的每一个角落
+Our People
+Above all we are food lovers, curious to explore new opportunities, as passionate about creating value for every stakeholder in our ecosystem as we are about delivering our customers quality authentic oriental food. We are a young company, innovative and enthusiastic, creative and professional, supporting our team members to work efficiently rather than long hours. We value everyone’s opinion and encourage open-mindedness and sharing within the team. We work hard, play hard, and – of course – keep our workforce fed and happy!
+我们的团队
+我们是一群美食爱好者我们渴望探索新的机遇并热衷于为我们的生态系统中的每个人创造价值就像我们要为客户提供优质正宗的中华美食一样。我们是一家年轻创新热情和专业的公司我们注重效率也拥抱革新。成功绝非只靠一个人的努力团队意识是我们秉持的企业奥义我们尊重彼此、乐于聆听、共同分享。每一份努力都将创造价值我们用心工作但也不忘尽情玩乐。
+加入我们一起将中国美食推向全球Join usNOW
+工作职责
+协助市场部门拓展和管理当地市场客户群体维护并提升公司品牌形象
+协助当地市场进行线上微信社群维护和运营包括邀请进群用户互动活动创建内容编辑用户维护等
+参与市场部门线下地推拉新宣传物料准备
+进行热点信息收集整理微信社群信息小红书KOL小红书内容投放等方面
+岗位要求
+有市场和新媒体运营相关经验者优先具有良好的市场及消费者洞察力
+性格积极外向具备良好的沟通能力、执行力和学习能力
+思维活跃勇于尝试充满激情
+需要在本地线下办公地区圣何塞、伯克利、旧金山
+可以在7月~10月工作每周工作20小时
+我们可以提供
+有偿实习期
+提供行业业务和技能培训获得市场实践经验
+宽广的发展平台良好的职业发展环境友好的工作氛围
+优秀实习生可以获得正式岗位机会
+需要合法工作身份接受OPT / CPT
+Job Types: Part-time, Internship, Temporary
+Pay: $18.00 per hour</description_text>
+</item>
+<item>
+    <id>1738877914</id>
+    <date_posted>2025-06-14T00:00:00</date_posted>
+    <date_created>2025-06-14T17:22:54.847886</date_created>
+    <title>Network Configuration Engineer - Chicago, IL Addison, TX</title>
+    <organization>Career Mentors, LLC</organization>
+    <organization_url/>
+    <date_validthrough/>
+    <locations_raw>
+        <__type>Place</__type>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressCountry>US</addressCountry>
+            <addressLocality>Mahwah</addressLocality>
+            <addressRegion>NJ</addressRegion>
+            <postalCode/>
+            <streetAddress/>
+        </address>
+    </locations_raw>
+    <locations_alt_raw/>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw>
+        <__type>MonetaryAmount</__type>
+        <currency>USD</currency>
+        <value>
+            <__type>QuantitativeValue</__type>
+            <maxValue>75</maxValue>
+            <minValue>70</minValue>
+            <unitText>HOUR</unitText>
+        </value>
+    </salary_raw>
+    <employment_type>CONTRACTOR</employment_type>
+    <url>https://careermentors.recruitee.com/o/crm-project-manager-business-analyst-mahwah-nj-area-2-3</url>
+    <source_type>ats</source_type>
+    <source>recruitee</source>
+    <source_domain>careermentors.recruitee.com</source_domain>
+    <organization_logo/>
+    <cities_derived>Mahwah</cities_derived>
+    <regions_derived>New Jersey</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>Mahwah, New Jersey, United States</locations_derived>
+    <timezones_derived>America/New_York</timezones_derived>
+    <lats_derived>41.0816</lats_derived>
+    <lngs_derived>-74.1856</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>careermentorsng.com</domain_derived>
+    <description_text>Employment Type:
+W2 Candidates Only (Visa Open)
+Locations:
+Chicago, IL
+Addison, TX
+(Priority given to candidates who are local or nearby)
+Compensation:
+$75 per hour on W2
+We are seeking an experienced Network Configuration Engineer with strong expertise across multiple system layers and platforms.
+
+
+10+ years of professional experience as a Network Engineer
+Expertise in configurations across:
+Operating Systems: Windows (Win), Unix/Linux
+Databases
+Network Devices: Routers, Switches, Firewalls, Load Balancers, etc.
+Strong hands-on experience with:
+Docker
+Kubernetes or other Container Orchestration tools
+Solid knowledge of networking protocols, security best practices, and troubleshooting methodologies
+Excellent communication and collaboration skills
+Local candidates preferred due to potential onsite or hybrid work model
+TopTech Talent is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws. 
+ Third-party recruiters, please do not reach out for this role.</description_text>
+</item>
+<item>
+    <id>1737495562</id>
+    <date_posted>2025-06-14T00:00:00</date_posted>
+    <date_created>2025-06-14T04:38:12.567507</date_created>
+    <title>Associate Principal Scientist, Biology-Discovery</title>
+    <organization>Merck</organization>
+    <organization_url>https://jobs.merck.com/us/en</organization_url>
+    <date_validthrough/>
+    <locations_raw>
+        <geo>
+            <__type>GeoCoordinates</__type>
+            <latitude>40.6057719</latitude>
+            <longitude>-74.2887287</longitude>
+        </geo>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressCountry>United States of America</addressCountry>
+            <addressLocality>Rahway</addressLocality>
+            <addressRegion>New Jersey</addressRegion>
+        </address>
+        <__type>Place</__type>
+    </locations_raw>
+    <locations_raw>
+        <geo>
+            <__type>GeoCoordinates</__type>
+            <latitude>37.7749295</latitude>
+            <longitude>-122.4194155</longitude>
+        </geo>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressCountry>United States of America</addressCountry>
+            <addressLocality>San Francisco</addressLocality>
+            <addressRegion>California</addressRegion>
+        </address>
+        <__type>Place</__type>
+    </locations_raw>
+    <locations_raw>
+        <geo>
+            <__type>GeoCoordinates</__type>
+            <latitude>42.3555076</latitude>
+            <longitude>-71.0565364</longitude>
+        </geo>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressCountry>United States of America</addressCountry>
+            <addressLocality>Boston</addressLocality>
+            <addressRegion>Massachusetts</addressRegion>
+        </address>
+        <__type>Place</__type>
+    </locations_raw>
+    <locations_raw>
+        <geo>
+            <__type>GeoCoordinates</__type>
+            <latitude>42.3666036</latitude>
+            <longitude>-71.1056916</longitude>
+        </geo>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressCountry>United States of America</addressCountry>
+            <addressLocality>Cambridge</addressLocality>
+            <addressRegion>Massachusetts</addressRegion>
+        </address>
+        <__type>Place</__type>
+    </locations_raw>
+    <locations_raw>
+        <geo>
+            <__type>GeoCoordinates</__type>
+            <latitude>40.2090521</latitude>
+            <longitude>-75.2964708</longitude>
+        </geo>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressCountry>United States of America</addressCountry>
+            <addressLocality>West Point</addressLocality>
+            <addressRegion>Pennsylvania</addressRegion>
+        </address>
+        <__type>Place</__type>
+    </locations_raw>
+    <locations_alt_raw/>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw/>
+    <employment_type>FULL_TIME</employment_type>
+    <url>https://jobs.merck.com/us/en/job/R352329/Associate-Principal-Scientist-Biology-Discovery</url>
+    <source_type>ats</source_type>
+    <source>phenompeople</source>
+    <source_domain>jobs.merck.com</source_domain>
+    <organization_logo>https://assets.phenompeople.com/CareerConnectResources/pp/MERCUS/images/job_logo_config--1668014409393.png</organization_logo>
+    <cities_derived>Cambridge</cities_derived>
+    <cities_derived>Boston</cities_derived>
+    <cities_derived>Rahway</cities_derived>
+    <cities_derived>West Point</cities_derived>
+    <cities_derived>San Francisco</cities_derived>
+    <regions_derived>Massachusetts</regions_derived>
+    <regions_derived>Massachusetts</regions_derived>
+    <regions_derived>New Jersey</regions_derived>
+    <regions_derived>Utah</regions_derived>
+    <regions_derived>California</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <countries_derived>United States</countries_derived>
+    <countries_derived>United States</countries_derived>
+    <countries_derived>United States</countries_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>Cambridge, Massachusetts, United States</locations_derived>
+    <locations_derived>Boston, Massachusetts, United States</locations_derived>
+    <locations_derived>Rahway, New Jersey, United States</locations_derived>
+    <locations_derived>West Point, Utah, United States</locations_derived>
+    <locations_derived>San Francisco, California, United States</locations_derived>
+    <timezones_derived>America/New_York</timezones_derived>
+    <timezones_derived>America/New_York</timezones_derived>
+    <timezones_derived>America/New_York</timezones_derived>
+    <timezones_derived>America/Denver</timezones_derived>
+    <timezones_derived>America/Los_Angeles</timezones_derived>
+    <lats_derived>42.3759</lats_derived>
+    <lats_derived>42.3188</lats_derived>
+    <lats_derived>40.6077</lats_derived>
+    <lats_derived>41.122</lats_derived>
+    <lats_derived>37.7558</lats_derived>
+    <lngs_derived>-71.1185</lngs_derived>
+    <lngs_derived>-71.0852</lngs_derived>
+    <lngs_derived>-74.2807</lngs_derived>
+    <lngs_derived>-112.0995</lngs_derived>
+    <lngs_derived>-122.4449</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>merck.com</domain_derived>
+    <description_text>Job Description
+This is an outstanding opportunity for a highly organized and detail-oriented Associate Principal Scientist (R4) with a strong background in mouse genetics, custom breeding (CBS) of Genetically Engineered Models (GEM), GEM phenotyping, and In Vivo Pharmacology to join the External Quantitative Biosciences team (ExQB). The role will oversee and manage contract organizations (CROs) involved in the custom breeding of Our Company's genetically engineered mouse and rat models by collaborating with colleagues across all discovery sites and therapeutic areas (Cardiometabolic Diseases, Immunology, Oncology, Infectious Diseases, &amp; Neuroscience) to support Our Company's innovative drug discovery programs.
+The successful candidate will ensure seamless management of all proprietary or licensed-in active or cryopreserved GEM lines. The candidate should possess broad experimental capabilities and a strong work ethic, have excellent communication skills, and work effectively in a highly collaborative, cross-functional team environment.
+Key responsibilities include but are not limited to the following:
+Under the guidance of the Senior Principal GEM Lead, the ideal candidate will oversee the scientific and operational GEM custom breeding (CBS) and GEM phenotyping efforts conducted through our network of contract research organizations (CROs) and academic collaborators.
+The individual will act as a primary point of contact between internal Principal Investigators (PI) and external partners, facilitating activities through effective communication and collaboration.
+The successful candidate will be responsible for conducting monthly/bi-monthly meetings with Our Company's PIs and CRO Project Managers (PMs) to adjust breeding goals and meet production needs of GEM lines, as well as conduct therapeutic area GEMs committee meetings to approve/reject new GEM and phenotyping proposals.
+Together with Discovery Operations, the associate principal scientist will ensure robust partner relationship management of CRO providers including evaluation of performance, and compliance with contractual obligations and project specifications. Responsibilities will include completion of regular CRO performance reviews, driving business reviews and annual joint steering committee meetings, as well as conducting partner site visits to evaluate processes, capabilities, safety procedures and compliance workflows. 
+The individual will also work closely with Finance, Discovery Operations, and CRO partners to forecast and track GEM custom breeding and phenotyping spend for the discovery organization including the gathering of resource demands to enable Finance in robust profit planning and effective management of budget allocation and forecasting. 
+Depending on the candidate’s pharmacology expertise, involvement in outsourcing of in vivo pharmacology studies is also a possibility; including, but not limited to, the design, interpretation, and troubleshooting of In Vivo models of disease.
+NOTE: The location can be at any of the Our Company's Research Laboratories located in Rahway, NJ, West Point, PA, South San Francisco, CA or Cambridge/Boston, MA based on candidate preference.
+Qualifications:
+Education:
+Bachelor's (with 12+ years), Master's (with 8+ years) or Ph.D. (with 4+ years) in Molecular Genetics or a related field and relevant experience
+Required Experience and Skills:
+Deep knowledge of mouse genetics and 3+ years of experience of rodent GEM breeding and phenotyping
+Experience or strong understanding of rodent genetically engineering techniques including state-of-the-art technologies like CRISPR/Cas9 mediated in vivo gene editing
+Three (3) or more years of experience managing CRO relationships
+Strong communication skills, both oral and written; demonstrated ability to speak up appropriately and raise issues to internal teams and management as well as CRO partners as necessary (ability to influence without authority)
+Strong collaboration and interpersonal skills; ability to establish good working relationships with colleagues, as well as management both within Our Company and at CRO or academic partners
+Successful track record of working with multiple functional groups or teams across cultural and geographic boundaries to align cross-departmental resources and teams to solve complex problems
+Willingness to travel within the US and Europe and some flexibility to take meetings during non-core hours
+Preferred Experience and Skills: 
+Strong understanding of in vivo pharmacology principles, experimental procedures and techniques in one of Our Company's therapeutic areas (Cardiometabolic Diseases, Immunology, Oncology, Infectious Diseases, &amp; Neuroscience) would be an advantage (Immunology is preferred)
+Understanding of molecular biology techniques including gene synthesis, cloning, vector generation and sequencing
+#EligibleforERP 
+Current Employees apply HERE
+Current Contingent Workers apply HERE
+US and Puerto Rico Residents Only:
+Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.
+As an Equal Employment Opportunity Employer, we provide equal opportunities to all employees and applicants for employment and prohibit discrimination on the basis of race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or other applicable legally protected characteristics. As a federal contractor, we comply with all affirmative action requirements for protected veterans and individuals with disabilities. For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit:
+EEOC Know Your Rights
+EEOC GINA Supplement​
+We are proud to be a company that embraces the value of bringing together, talented, and committed people with diverse experiences, perspectives, skills and backgrounds. The fastest way to breakthrough innovation is when people with diverse ideas, broad experiences, backgrounds, and skills come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively.
+Learn more about your rights, including under California, Colorado and other US State Acts
+U.S. Hybrid Work Model
+Effective September 5, 2023, employees in office-based positions in the U.S. will be working a Hybrid work consisting of three total days on-site per week, Monday - Thursday, although the specific days may vary by site or organization, with Friday designated as a remote-working day, unless business critical tasks require an on-site presence.This Hybrid work model does not apply to, and daily in-person attendance is required for, field-based positions; facility-based, manufacturing-based, or research-based positions where the work to be performed is located at a Company site; positions covered by a collective-bargaining agreement (unless the agreement provides for hybrid work); or any other position for which the Company has determined the job requirements cannot be reasonably met working remotely. Please note, this Hybrid work model guidance also does not apply to roles that have been designated as “remote”.
+The salary range for this role is
+$139,600.00 - $219,700.00
+This is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. An employee’s position within the salary range will be based on several factors including, but not limited to relevant education, qualifications, certifications, experience, skills, geographic location, government requirements, and business or organizational needs.
+The successful candidate will be eligible for annual bonus and long-term incentive, if applicable.
+We offer a comprehensive package of benefits. Available benefits include medical, dental, vision healthcare and other insurance benefits (for employee and family), retirement benefits, including 401(k), paid holidays, vacation, and compassionate and sick days. More information about benefits is available at https://jobs.merck.com/us/en/compensation-and-benefits.
+You can apply for this role through https://jobs.merck.com/us/en (or via the Workday Jobs Hub if you are a current employee). The application deadline for this position is stated on this posting.
+San Francisco Residents Only: We will consider qualified applicants with arrest and conviction records for employment in compliance with the San Francisco Fair Chance Ordinance
+Los Angeles Residents Only: We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance
+Search Firm Representatives Please Read Carefully 
+Merck &amp; Co., Inc., Rahway, NJ, USA, also known as Merck Sharp &amp; Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails. 
+Employee Status: 
+Regular
+Relocation:
+Domestic
+VISA Sponsorship:
+Yes
+Travel Requirements:
+10%
+Flexible Work Arrangements:
+Not Applicable
+Shift:
+1st - Day
+Valid Driving License:
+No
+Hazardous Material(s):
+No
+Required Skills:
+Animal Breeding, Cardiometabolic, Communication, Genetic Research, Immunology, Infectious Disease, In Vivo Studies, Molecular Biology, Mouse Genetics, Neuroscience, Oncology, Partner Relationship Management (PRM), Phenotyping, Project Management
+Preferred Skills:
+Job Posting End Date:
+07/4/2025
+*A job posting is effective until 11:59:59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day BEFORE the job posting end date. 
+
+Requisition ID:R352329</description_text>
+</item>
+<item>
+    <id>1736854347</id>
+    <date_posted>2025-06-13T21:57:33.965</date_posted>
+    <date_created>2025-06-13T22:01:03.987372</date_created>
+    <title>Principal Software Engineer in Test (Cloud Security Services)</title>
+    <organization>Palo Alto Networks</organization>
+    <organization_url/>
+    <date_validthrough/>
+    <locations_raw>
+        <address>
+            <addressLocality>Santa Clara</addressLocality>
+            <addressRegion>California</addressRegion>
+            <addressCountry>United States</addressCountry>
+        </address>
+    </locations_raw>
+    <locations_alt_raw>Santa Clara, CA</locations_alt_raw>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw/>
+    <employment_type>Full-time</employment_type>
+    <url>https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000065133327-principal-software-engineer-in-test-cloud-security-services-</url>
+    <source_type>ats</source_type>
+    <source>smartrecruiters</source>
+    <source_domain>jobs.smartrecruiters.com</source_domain>
+    <organization_logo/>
+    <cities_derived>Santa Clara</cities_derived>
+    <regions_derived>California</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>Santa Clara, California, United States</locations_derived>
+    <timezones_derived>America/Los_Angeles</timezones_derived>
+    <lats_derived>37.3646</lats_derived>
+    <lngs_derived>-121.968</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>paloaltonetworks.com</domain_derived>
+    <description_text>Company DescriptionOur MissionAt Palo Alto Networks® everything starts and ends with our mission:Being the cybersecurity partner of choice, protecting our digital way of life.
+Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.Who We AreWe take our mission of protecting the digital way of life seriously. We are relentless in protecting our customers and we believe that the unique ideas of every member of our team contributes to our collective success. Our values were crowdsourced by employees and are brought to life through each of us everyday - from disruptive innovation and collaboration, to execution. From showing up for each other with integrity to creating an environment where we all feel included.As a member of our team, you will be shaping the future of cybersecurity. We work fast, value ongoing learning, and we respect each employee as a unique individual. Knowing we all have different needs, our development and personal wellbeing programs are designed to give you choice in how you are supported. This includes our FLEXBenefits wellbeing spending account with over 1,000 eligible items selected by employees, our mental and financial health resources, and our personalized learning opportunities - just to name a few!At Palo Alto Networks, we believe in the power of collaboration and value in-person interactions. This is why our employees generally work full time from our office with flexibility offered where needed. This setup fosters casual conversations, problem-solving, and trusted relationships. Our goal is to create an environment where we all win with precision.Job DescriptionYour CareerWe are the Threat Prevention &amp; AppID QA team. Our QA team is at the core of our products – deliver the best of security services on the cloud to prevent cyberattacks. We are constantly innovating – challenging the way we, and the industry, think about cybersecurity.Our engineers don't shy away from building products to solve problems no one has pursued before. To stay ahead of the curve, it's critical to know where the curve is, and how to anticipate the changes we're facing. For the fastest growing cybersecurity company, the curve is the evolution of cyberattacks, and the products and services that proactively address them.Our engineering team is at the core of our products – connected directly to the mission of preventing cyberattacks. They are constantly innovating – challenging the way we, and the industry, think about cybersecurity.Your ImpactThese engineers aren't shy about creating products to solve problems no one has tackled before - They define the industry, instead of waiting for directionsWe need individuals who feel comfortable in ambiguity, excited by the prospect of challenge, and empowered by the unknown risks facing our everyday lives that are only enabled by a secure digital environmentOur QA team is provided with an unrivaled opportunity to deliver quality products and practices that will support our company growth over the next decade, defining the cybersecurity industry as we know itIf you see the potential of how incredible people products can transform a business, this is the team for you - If you don't wait for directions, instead, identifying new features and opportunities we have to just get better, this is your new careerQualificationsYour Experience8+ years of relevant experience, with a BS or MS degree or equivalent military experience requiredSoftware Development or QA experience in the cybersecurity, networking and related areasExperience in writing test plans and test cases, strong knowledge of SQA methodologies, tools and proceduresStrong Python (or other similar) Scripting and/or automationStrong experience  in standard TCP/IP protocols such as ARP, IP, ICMP, TCP, UDP &amp; IPSec VPNsStrong experience  in L4-L7 protocols (HTTP, SSL/TLS, SMTP, POP3, DNS, LDAP)Experience with installation and configuration of (HTTP, DHCP, DNS, FTP, MAIL Protocols, etc.) on linux and windows environmentsUnderstanding of how the Internet works at a network packet level is essentialExperience with open source test and Network traffic generating tools and good to have experience with typical test tools from Spirent, Breaking Point, and IxiaKnowledge and experience of next generation firewall and its IPS engine is a plusExposure to Cloud Technologies (AWS,GCP,Azure or any other cloud)Additional InformationThe TeamWe define the industry, instead of waiting for directions. We need individuals who feel comfortable in ambiguity, excited by the prospect of a challenge, and empowered by the unknown risks facing our everyday lives that are only enabled by a secure digital environment. Our CommitmentWe’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at [email protected].Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.All your information will be kept confidential according to EEO guidelines.Compensation DisclosureThe compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/commissioned roles) is expected to be between $104000/yr - $ 225000/yr. The offered compensation may also include restricted stock units and a bonus. A description of our employee benefits may be found here.#LI-DREESE2Our Commitment
+
+We’re problem solvers that take risks and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at  [email protected].Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.All your information will be kept confidential according to EEO guidelines.
+Is role eligible for Immigration Sponsorship?: Yes</description_text>
+</item>
+<item>
+    <id>1738414185</id>
+    <date_posted>2025-06-13T20:01:50</date_posted>
+    <date_created>2025-06-14T12:52:17.396267</date_created>
+    <title>Senior Project Manager I</title>
+    <organization>Mortenson External Career Site</organization>
+    <organization_url>https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/</organization_url>
+    <date_validthrough/>
+    <locations_raw>
+        <__type>Place</__type>
+        <address>
+            <__type>PostalAddress</__type>
+            <addressLocality>Fargo</addressLocality>
+            <addressRegion>ND</addressRegion>
+            <addressCountry>United States</addressCountry>
+        </address>
+    </locations_raw>
+    <locations_alt_raw/>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw/>
+    <employment_type>Full time</employment_type>
+    <url>https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18976</url>
+    <source_type>ats</source_type>
+    <source>oraclecloud</source>
+    <source_domain>fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com</source_domain>
+    <organization_logo/>
+    <cities_derived>Fargo</cities_derived>
+    <regions_derived>North Dakota</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>Fargo, North Dakota, United States</locations_derived>
+    <timezones_derived>America/Chicago</timezones_derived>
+    <lats_derived>46.8651</lats_derived>
+    <lngs_derived>-96.8292</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>mortenson.com</domain_derived>
+    <description_text>Senior Project Manager I
+SUMMARY 
+Mortenson is currently seeking an experienced Senior Project Manager I to provide overall leadership direction to one large project or multiple projects to include the management of project quality, timeliness, safety, as well as mentoring the project team. You will develop and improve customer relationships by providing excellent service. Excellent written and verbal communication skills are necessary as you will be interacting with staff at all levels in an ever-changing environment. Your ability to remain flexible, inventive, dedicated, and efficient with a high level of integrity and confidentiality is vital to your success.
+RESPONSIBILITIES
+Supervise overall financial health of projects
+Develop and maintain project financial and equipment projections
+Allocate project estimates into the financial system, determine cost codes, approve invoices
+Provide financials and billings to Accounting, create monthly owner billings
+Handle subcontracts and suppliers, manage budget and selections
+Lead Assistant Project Managers and Project Engineers, provide job assignments and training
+Function as main point of contact with owner and on-site representative
+Resolve site concerns, handle change orders, and obtain necessary approvals
+Maintain schedule and budget, manage quality, risk, safety, and compliance
+QUALIFICATIONS
+Bachelor’s degree in Construction, Civil, or Architectural Engineering or Construction Management, or equivalent experience 
+Minimum eight years of construction management/project management or related experience
+Ability to fulfill responsibilities for multiple, large complex projects
+Active listening skills and effective communication including an openness to diverse input and feedback
+Possess basic understanding of construction law and generally accepted business practices
+Microsoft Office, project, and pertinent web application skills at an intermediate level
+Positive professional attitude, and strong customer service skills
+Ability to interpret and communicate Mortenson policies 
+Current driver’s license
+Ability to travel up to 100%
+A few benefits offered include: 
+(for Non-Craft &amp; Non-Union Craft working 25+ hours / week)
+Medical and prescription drug plans that includes no additional cost vision coverage 
+Dental plan 
+401k retirement plan with a generous Mortenson match 
+Paid time off, holidays, and other paid leaves 
+Employer paid Life, AD&amp;D, and disability insurance 
+No-Cost mental health tool and concierge with extensive work-life resources
+Tuition reimbursement 
+Adoption Assistance 
+Gym Membership Discount Program 
+The base pay range for this role is $140,000 - $211,000(Actual range is higher for the following office locations: Denver, CO and Chicago, IL – 5%, Seattle, WA, and Portland, OR – 10%, Washington, D.C. – 12.5%).
+Base pay is positioned within the range based on several factors including an individual’s knowledge, skills, and experience, with consideration given to internal equity. This position is eligible for Mortenson’s incentive plan.
+Please make note: 
+Visa sponsorship is offered for this position. 
+Our postings are typically open a minimum of 5 days and an average of 44 days. 
+ABOUT MORTENSON
+As a top builder, developer, and EPC (Engineering, Procurement, and Construction), our expertise spans markets like sports, renewable energy, data centers, healthcare, and more. We are builders at heart, working to ensure the built environment has a lasting positive impact. 
+Let’s Redefine Possible® 
+Equal Employment Opportunity
+Your uniqueness brings new and creative perspectives to the team. Mortenson is committed to providing equal opportunities of employment (EOE) to all individuals, regardless of your race, religion, gender, national origin, age, veteran status, disability, marital status or any other legally protected category.
+Other Items to Note
+Mortenson reserves the right to hire any individual without legal or financial obligation on unwanted solicitations. No agency emails, calls, or solicitations are accepted without a valid agreement.</description_text>
+</item>
+<item>
+    <id>1736399005</id>
+    <date_posted>2025-06-13T16:57:33.6</date_posted>
+    <date_created>2025-06-13T17:01:04.713069</date_created>
+    <title>Sr Staff Engineer Software (Feature Development Platform)</title>
+    <organization>Palo Alto Networks</organization>
+    <organization_url/>
+    <date_validthrough/>
+    <locations_raw>
+        <address>
+            <addressLocality>Santa Clara</addressLocality>
+            <addressRegion>California</addressRegion>
+            <addressCountry>United States</addressCountry>
+        </address>
+    </locations_raw>
+    <locations_alt_raw>Santa Clara, CA</locations_alt_raw>
+    <location_type/>
+    <location_requirements_raw/>
+    <salary_raw/>
+    <employment_type>Full-time</employment_type>
+    <url>https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000065092845-sr-staff-engineer-software-feature-development-platform-</url>
+    <source_type>ats</source_type>
+    <source>smartrecruiters</source>
+    <source_domain>jobs.smartrecruiters.com</source_domain>
+    <organization_logo/>
+    <cities_derived>Santa Clara</cities_derived>
+    <regions_derived>California</regions_derived>
+    <countries_derived>United States</countries_derived>
+    <locations_derived>Santa Clara, California, United States</locations_derived>
+    <timezones_derived>America/Los_Angeles</timezones_derived>
+    <lats_derived>37.3646</lats_derived>
+    <lngs_derived>-121.968</lngs_derived>
+    <remote_derived>false</remote_derived>
+    <domain_derived>paloaltonetworks.com</domain_derived>
+    <description_text>Company DescriptionOur MissionAt Palo Alto Networks® everything starts and ends with our mission:Being the cybersecurity partner of choice, protecting our digital way of life.
+Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.Who We AreWe take our mission of protecting the digital way of life seriously. We are relentless in protecting our customers and we believe that the unique ideas of every member of our team contributes to our collective success. Our values were crowdsourced by employees and are brought to life through each of us everyday - from disruptive innovation and collaboration, to execution. From showing up for each other with integrity to creating an environment where we all feel included.As a member of our team, you will be shaping the future of cybersecurity. We work fast, value ongoing learning, and we respect each employee as a unique individual. Knowing we all have different needs, our development and personal wellbeing programs are designed to give you choice in how you are supported. This includes our FLEXBenefits wellbeing spending account with over 1,000 eligible items selected by employees, our mental and financial health resources, and our personalized learning opportunities - just to name a few!At Palo Alto Networks, we believe in the power of collaboration and value in-person interactions. This is why our employees generally work full time from our office with flexibility offered where needed. This setup fosters casual conversations, problem-solving, and trusted relationships. Our goal is to create an environment where we all win with precision.Job DescriptionYour CareerYou will have the opportunity to build a career solving network security challenges leveraging advanced machine learning techniques on exabytes of data. You will help create and deliver the most advanced AI and Machine Learning enabled solutions to discover threats, provide intelligence and protect devices.We expect office-based employees to be in the office four days per week, with one day working from where they choose. We believe being together facilitates casual conversations and those magic moments where we can work on issues and ideas informally. These moments build capability and deepen trusted relationships and allow our people to feel safe in taking risks and being disruptive. Like so many companies, we are working through the details and things could change …. but in general if a role is deemed office-based we want our teams to be together four days per week. Your ImpactDrive the architecture and development for key modules on our next-generation Deep Learning based AIOps security platform as part of Cloud managementDevelop architectures that are inherently secure, robust, scalable, modular, API-centricOwn the organizational objective of end-to-end services health and customer experienceCultivate a safe work culture that inspires individual decision-making and innovationQualificationsYour Experience Demonstrated ownership of solutions for scalable Observability, CI/CD, Cloud Infrastructure, and Automated security solutions covering several dozen micro services running on thousands of instances and containers4+ experience in design, algorithms and data structures - Expertise with one or more of the following is a must - Java, Python, C++, Cloud services, Data platformsAble to weigh several, often conflicting constraints, and make quick decisions in a dynamic and quickly-growing company.Possess technical experience in Observability/Visibility Engineering, Security, Cloud Infrastructure, Domain Controllers in order to recognize the important decisions your team faces and provide meaningful feedbackPrevious experience building and running high-scale geographically distributed always-on systems.A good mix of Unix toolchain and development experience in a combination of native, managed and scripting programming languages. Experience with large-scale cluster management systems like Kubernetes and Mesos is desirable.Possess exceptional written and verbal communication skillsBachelor's degree in Computer Science, Engineering or related field, or equivalent military experience required4+ years of industry experienceAdditional InformationThe TeamDrawing on the near real-time data collected through PAN-OS device telemetry, our industry-leading next generation insights product (AIOps for NGFW) gives large cybersecurity operators a force multiplier that provides visibility into the health of their next-generation-firewall (NGFW) devices. It enables early detection of issues at various levels of the stack via advanced time-series forecasting and anomaly detection using novel deep learning techniques. Our goal is to be able to prevent service-impacting issues in critical security infrastructure that operates 24/7/365 with zero false positives and zero false negatives.You will be working on the best large language model in the cyber security industry.Compensation DisclosureThe compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/commissioned roles) is expected to be between $104000 - $169500 The offered compensation may also include restricted stock units and a bonus. A description of our employee benefits may be found here.Our Commitment
+
+We’re problem solvers that take risks and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at  [email protected].Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.All your information will be kept confidential according to EEO guidelines.
+Is role eligible for Immigration Sponsorship?: Yes</description_text>
+</item>
+</items>
